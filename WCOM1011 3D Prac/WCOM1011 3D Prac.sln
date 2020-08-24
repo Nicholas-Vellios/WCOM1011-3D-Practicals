@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WCOM1011 3D Prac", "Assembly-CSharp-firstpass.csproj", "{5785C6DC-D306-FC5F-FAFB-A7284D1ADDE7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WCOM1011 3D Prac", "Assembly-CSharp.csproj", "{BA864B1A-20F2-8604-1761-6CE05718E9E7}"
+EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WCOM1011 3D Prac", "Assembly-CSharp-Editor-firstpass.csproj", "{86454AB4-9384-9D25-9148-57AB241B2A15}"
 EndProject
 Global
@@ -15,6 +17,10 @@ Global
 		{5785C6DC-D306-FC5F-FAFB-A7284D1ADDE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5785C6DC-D306-FC5F-FAFB-A7284D1ADDE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5785C6DC-D306-FC5F-FAFB-A7284D1ADDE7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA864B1A-20F2-8604-1761-6CE05718E9E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA864B1A-20F2-8604-1761-6CE05718E9E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA864B1A-20F2-8604-1761-6CE05718E9E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA864B1A-20F2-8604-1761-6CE05718E9E7}.Release|Any CPU.Build.0 = Release|Any CPU
 		{86454AB4-9384-9D25-9148-57AB241B2A15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{86454AB4-9384-9D25-9148-57AB241B2A15}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{86454AB4-9384-9D25-9148-57AB241B2A15}.Release|Any CPU.ActiveCfg = Release|Any CPU
